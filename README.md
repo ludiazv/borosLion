@@ -110,19 +110,21 @@ Charging current during constant current phase can be configured wiring a single
 
 
  Notional values for external resistor are compiled in the following table:
-| R  | Constant current charge current mA (aprox) |
-| -----------  | -------------------------------------- |
-| No resitor   | 100mA |
-|  100K        | 110mA |
-|  47K         | 120mA |
-|  22K         | 145mA |
-|  10K         | 200mA |
-|  6K8         | 250mA |
-|  5K1         | 295mA |
-|  4K7         | 310mA |
-|  3K3         | 400mA |
-|  2K2         | 550mA |
-|  2K          | 600mA |
+
+| R          | Constant current charge current mA (aprox) |
+| ---------- | ------------------------------------------ |
+| No resitor | 100mA                                      |
+| 100K       | 110mA                                      |
+| 47K        | 120mA                                      |
+| 22K        | 145mA                                      |
+| 10K        | 200mA                                      |
+| 6K8        | 250mA                                      |
+| 5K1        | 295mA                                      |
+| 4K7        | 310mA                                      |
+| 3K3        | 400mA                                      |
+| 2K2        | 550mA                                      |
+| 2K         | 600mA                                      |
+
 
 Charging currents  *600mA* is the absolute maximum of the charger IC. It is recommended to operate below this limit.
 
